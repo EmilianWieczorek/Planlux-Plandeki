@@ -25,6 +25,10 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
+# --- local databases ---
+*.db
+*.sqlite
+
 # --- environment / secrets ---
 .env
 .env.*
